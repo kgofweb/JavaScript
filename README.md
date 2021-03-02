@@ -1,5 +1,5 @@
 # JavaScript
-My JavaScript projects
+My little JavaScript projects to progress
 
 
 Vanilla JavaScript Project
